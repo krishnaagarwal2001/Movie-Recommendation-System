@@ -1,3 +1,2 @@
-# Movie-Recommendation-System
-# Created a Movie Recommendation System                                                                     
+# Movie-Recommendation-System                                                                  
 # Dataset used:- Movielens 100k Dataset
